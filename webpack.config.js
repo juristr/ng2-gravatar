@@ -53,7 +53,7 @@ var config = {
       'angular2/angular2',
       'angular2/core'
     ],
-    'ng2-gravatar': ['ng2-gravatar']
+    'ng2-gravatar': ['./src/gravatar']
   },
 
   output: {
